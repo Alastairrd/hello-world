@@ -1,2 +1,5 @@
 # hello-world
-Learning github
+
+Yoyo, Alastair here.
+
+Just trying out github for the first time!
